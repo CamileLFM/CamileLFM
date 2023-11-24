@@ -17,6 +17,8 @@ Currently, I'm an intern at a company as a Developer, where I'm having the oppor
 
 ##
 
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CamileLFM&langs_count=8&theme=dracula)
+##
 <div>
   <a href="https://www.linkedin.com/in/camile-macedo-a24034214?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> &nbsp &nbsp
