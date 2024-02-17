@@ -26,7 +26,7 @@ Currently, I'm an intern at a company as a Developer, where I'm having the oppor
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> &nbsp &nbsp
   <a href="https://instagram.com/c_mile_?igshid=OGQ5ZDc2ODk2ZA=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> &nbsp &nbsp
   <a href="mailto:camilemacedo@gmail.com" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> &nbsp &nbsp
-  <a title="My personal Profile" href="https://github.com/CamileLFM" ><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&vCenter=true&logo=github&logoColor=white"></a>
+  <a title="My work Profile" href="https://github.com/CamileMacedo" ><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&vCenter=true&logo=github&logoColor=white"></a>
 </div>
 
 
